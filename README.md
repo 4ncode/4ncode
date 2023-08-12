@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @4ncode
-- 👀 I’m interested in computer games
-- 🌱 I’m currently learning to program in python
-- 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me ...
+“Are you a fool pretending to be a genius? Or are you a genius who keep on playing the fool?”
 
-<!---
-4ncode/4ncode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let me tell you about myself.
+I have no particular hobbies but I'm interested in just about anything.
+I don't need many friends, but I think it would be nice to have at least a few.
+The interaction passcode is 4510471. And, well, that's about it...
