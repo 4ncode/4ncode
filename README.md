@@ -5,3 +5,20 @@
   where I share my projects, technical work, and continuous learning journey.<br>
   Feel free to explore.
 </p>
+<pre>
+          .--.       .--.
+    _  `    \     /    `  _
+     `\.===. \.^./ .===./`
+            \/`"`\/
+         ,  |     |  ,
+        / `\|;-.-'|/` \
+       /    |::\  |    \
+    .-' ,-'`|:::; |`'-, '-.
+        |   |::::\|   | 
+        |   |::::;|   |
+        |   \:::://   |
+        |    `.://'   |
+       .'             `.
+    _,'                 `,_
+
+</pre>
